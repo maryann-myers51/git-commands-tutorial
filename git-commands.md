@@ -45,10 +45,10 @@ git commit
 git stash
 git stash pop
 
-#Rebasing
+## Rebasing
 
 git rebase branch-name
 
-##Cherry-Picking
+## Cherry-Picking
 
 git cherry-pick commit-hash

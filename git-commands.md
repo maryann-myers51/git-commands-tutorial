@@ -40,7 +40,7 @@ git branch -d branch-name
 git add resolved-file
 git commit
 
-$$Stashing
+##Stashing
 
 git stash
 git stash pop

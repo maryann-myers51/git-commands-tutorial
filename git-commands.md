@@ -9,7 +9,7 @@ git config --global maryann.myers@gmail.com "maryann.myers@gmail.com"
 
 git init
 
-##Cloning a Repository
+## Cloning a Repository
 
 git clone https://github.com/maryann-myers51/repository.git
 
@@ -18,7 +18,7 @@ git clone https://github.com/maryann-myers51/repository.git
 git add filename
 git commit -m "Commit message"
 
-##Viewing History
+## Viewing History
 
 git log
 
@@ -26,21 +26,21 @@ git log
 git branch new-brnach
 git checkout new-branch
 
-##Merging
+# Merging
 
 git merge branch-name
 
-##Deleting Branches
+## Deleting Branches
 
 git branch -d branch-name
 
-##HAndling Merge Conflicts
+## Handling Merge Conflicts
 
-#Edit conflicted files
+# Edit conflicted files
 git add resolved-file
 git commit
 
-##Stashing
+## Stashing
 
 git stash
 git stash pop
